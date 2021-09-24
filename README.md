@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PriyaMurali16
+- 👋 Hi, I’m Padma Priya Murali
 - 👀 I’m interested in using data analytics tools and machine learning algorithms in the aviation industry to bring in meaningful results 
 - 🌱 I’m currently pursuing Master of Science in Data Science at the University of North Texas
 
