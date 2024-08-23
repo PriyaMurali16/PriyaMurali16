@@ -3,9 +3,13 @@
 - 🌱 Graduated with my masters in Data Science and currently work as a Data Analyst at The Institute for Translational Research UNTHSC
 
 Previous Knowledge
+
+
 [![My Skills](https://skillicons.dev/icons?i=py,pytorch,sqlite,aws)](https://skillicons.dev)
 
 Currently Learning 
+
+
 [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 
 <!---
