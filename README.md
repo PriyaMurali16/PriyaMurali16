@@ -1,6 +1,4 @@
 
-Here’s a professional and engaging GitHub introduction write-up based on the provided details:
-
 👋 Hi there, I’m Padma Priya Murali!
 Welcome to my GitHub profile!
 
